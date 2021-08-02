@@ -14,7 +14,7 @@ In this MERN tutorial you will learn from Sinhala medium how to ,
 * REST API Creation (GET,POST,PUT,DELETE).
 * Testing the APIs using Postman.
 
-![MERN_intro](https://user-images.githubusercontent.com/79325373/127885473-14824e6d-2a3c-4db0-a37c-31929059d0ab.png)
+![mern-image](https://user-images.githubusercontent.com/79325373/127885913-b6dbe2ef-0bd3-4b23-886c-1250d6b4f56c.jpeg)
 
 Try Yourself  :innocent:   :point_down:
 ```
