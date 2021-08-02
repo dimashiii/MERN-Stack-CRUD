@@ -6,6 +6,8 @@ Express Server & MongoDB Configuration with REST API Creation & Testing with Pos
 
 _MERN Youtube Tutorial - By "**TechWithGeorge**"_
 
+![mern-image](https://user-images.githubusercontent.com/79325373/127886537-ab30e666-8cf1-4a94-9f6a-4fccd9b5db74.png)
+
 In this MERN tutorial you will learn from Sinhala medium how to ,
 
 * Project Folder Creation.
@@ -14,7 +16,6 @@ In this MERN tutorial you will learn from Sinhala medium how to ,
 * REST API Creation (GET,POST,PUT,DELETE).
 * Testing the APIs using Postman.
 
-![mern-image](https://user-images.githubusercontent.com/79325373/127885913-b6dbe2ef-0bd3-4b23-886c-1250d6b4f56c.jpeg)
 
 Try Yourself  :innocent:   :point_down:
 ```
