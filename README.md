@@ -1,8 +1,6 @@
-# MERN-Stack-CRUD
+# MERN Stack CRUD Application
 
-## MERN CRUD Application
-
-Express Server & MongoDB Configuration with REST API Creation & Testing with Postman
+### Express Server & MongoDB Configuration with REST API Creation & Testing with Postman
 
 _MERN Youtube Tutorial - By "**TechWithGeorge**"_
 
@@ -15,6 +13,8 @@ In this MERN tutorial you will learn from Sinhala medium how to ,
 * MongoDb Configuration.
 * REST API Creation (GET,POST,PUT,DELETE).
 * Testing the APIs using Postman.
+
+
 
 
 Try Yourself  :innocent:   :point_down:
